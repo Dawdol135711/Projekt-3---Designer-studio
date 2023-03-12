@@ -43,13 +43,13 @@ nav .logo {
 header .img--wrapper {
 	width: 75%;
 	height: 100vh;
-	background-image: url(/img/header_high.jpg);
+	background-image: url(../img/header_high.jpg);
 	background-size: cover;
 	background-position: center;
 }
 @media (max-width: 768px) {
 	header .img--wrapper {
-		background-image: url(/img/header_lov.jpg);
+		background-image: url(../img/header_lov.jpg);
 	}
 }
 header header {
