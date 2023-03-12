@@ -22,6 +22,12 @@ header nav {
 	align-items: center;
 	padding-bottom: 2rem;
 	position: sticky;
+    
+}
+@media (max-width: 768px) {
+	header nav{
+		flex-direction:column;
+	}
 }
 nav li {
 	list-style: none;
