@@ -54,10 +54,9 @@ header .img--wrapper {
 	background-size: cover;
 	background-position: center;
 }
-@media (max-width: 768px) {
+@media (max-width: 768px) {git
 	header .img--wrapper {
 		background-image: url(../img/header_lov.jpg);
-		height: 70vw;
 	}
 }
 header header {
