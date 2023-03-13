@@ -22,6 +22,7 @@ header nav {
 	align-items: center;
 	padding-bottom: 2rem;
 	position: sticky;
+	z-index:100;
     
 }
 @media (max-width: 768px) {
