@@ -57,6 +57,7 @@ header .img--wrapper {
 @media (max-width: 768px) {
 	header .img--wrapper {
 		background-image: url(../img/header_lov.jpg);
+		height: 70vw;
 	}
 }
 header header {
